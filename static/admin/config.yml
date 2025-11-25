@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: Ortabels/Projet_Jardin
-  branch: main
+  name: git-gateway
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
@@ -9,7 +7,6 @@ public_folder: "/uploads"
 collections:
   - name: "projects"
     label: "Projets"
-    label_singular: "Projet"
     folder: "content/projects"
     create: true
     slug: "{{slug}}"
@@ -25,7 +22,7 @@ collections:
       - { label: "Année", name: "annee", widget: "number", required: false }
       - { label: "Budget estimé (€)", name: "budget_estime", widget: "number", required: false }
       - { label: "Subvention demandée mairie (€)", name: "subvention_demandee_mairie", widget: "number", required: false }
-      - { label: "Contenu (partie publique + INTERNAL en bas)", name: "body", widget: "markdown" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
 
   - name: "pages"
     label: "Pages"
