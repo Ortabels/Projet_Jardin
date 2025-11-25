@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://glistening-torte-cd480b.netlify.app/"
 languageCode = "fr-fr"
 title = "Ortabels"
 theme = "ortabels-theme"
