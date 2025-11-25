@@ -3,8 +3,6 @@ languageCode = "fr-fr"
 title = "Ortabels"
 theme = "ortabels-theme"
 canonifyURLs = true
-backend:
-  name: git-gateway
 
 [params]
   description = "Micro-ferme Ortabels — projets, agroécologie et vie associative."
