@@ -1,0 +1,7 @@
+baseURL = "https://example.org/"
+languageCode = "fr-fr"
+title = "Ortabels"
+theme = "ortabels-theme"
+
+[params]
+  description = "Micro-ferme Ortabels — projets, agroécologie et vie associative."
