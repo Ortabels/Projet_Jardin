@@ -20,31 +20,11 @@
     </item>
     
     <item>
-      <title>Marc World</title>
-      <link>http://localhost:1313/posts/marc-world/</link>
+      <title>Système d’arrosage durable des arbres</title>
+      <link>http://localhost:1313/projets/arrossage_arbre_durable/arrosagedurablearbre/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/marc-world/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/marc-world/featured.png" />
-    </item>
-    
-    <item>
-      <title>Marc World</title>
-      <link>http://localhost:1313/posts/marc-world/marc-world-copy/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/marc-world/marc-world-copy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Marc World</title>
-      <link>http://localhost:1313/projets/marc-world/marc-world-copy/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projets/marc-world/marc-world-copy/</guid>
+      <guid>http://localhost:1313/projets/arrossage_arbre_durable/arrosagedurablearbre/</guid>
       <description></description>
       
     </item>
