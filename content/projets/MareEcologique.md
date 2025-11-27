@@ -3,8 +3,7 @@ title: "Création d’une mare écologique"
 date: 2025-11-26
 description: "a description"
 tags: ["biodiversite", "tag"]
-authors:
-  - "marc"
+authors: "jeremy"
 ---
 
 # Présentation publique
