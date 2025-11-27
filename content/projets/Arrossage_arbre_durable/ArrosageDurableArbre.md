@@ -7,7 +7,7 @@ tags: ["eau", "tag"]
 authors: "etienne"
 ---
 
-# Présentation publique
+# Présentation
 
 Le système d’arrosage durable vise à **sécuriser l’irrigation des jeunes arbres**
 tout en limitant la consommation d’eau, dans un contexte de sécheresse récurrente.
@@ -23,11 +23,9 @@ améliorer la survie des plantations récentes.
 
 ---
 
-# INTERNAL
+# Cahier des charges complet
 
-## Cahier des charges complet
-
-### 1. Informations générales
+## 1. Informations générales
 
 - **Titre du projet** : Irrigation arbres + cuves
 - **Référence interne** : 2026-ARROSAGE-01
@@ -35,20 +33,20 @@ améliorer la survie des plantations récentes.
 - **Autres membres impliqués** : _à renseigner_
 - **Statut** : Idée | Étude | Validé CA | En cours | Terminé
 
-### 2. Contexte
+## 2. Contexte
 
 - Une partie importante des arbres a été plantée récemment et nécessite un arrosage régulier.
 - Le site est soumis aux restrictions sécheresse et à un suivi des prélèvements d’eau.
 - Il est nécessaire d’optimiser l’usage de l’eau (pluie, stockage, distribution).
 
-### 3. Objectifs
+## 3. Objectifs
 
 - Économiser l’eau et sécuriser l’arrosage des jeunes arbres.
 - Mettre en place un système simple : cuves + réseau gravitaire ou basse pression.
 - Sensibiliser les publics à la gestion durable de l’eau.
 - Réduire les passages d’arrosage manuel en période estivale.
 
-### 4. Description du projet
+## 4. Description du projet
 
 - **Éléments principaux** :
   - 1–2 cuves 1000 L (récupération d’eau de pluie ou d’appoint).
@@ -67,58 +65,58 @@ améliorer la survie des plantations récentes.
   - variations saisonnières de disponibilité en eau.
   - entretien régulier du système (nettoyage filtres, vérification des fuites).
 
-### 5. Calendrier prévisionnel
+## 5. Calendrier prévisionnel
 
 - Mars : repérage des zones / emplacement des cuves.
 - Avril : achat et installation des cuves.
 - Mai : pose du réseau et tests.
 - Été : utilisation réelle + ajustements.
 
-### 6. Bénéficiaires
+## 6. Bénéficiaires
 
 - Arbres (pérennité des plantations).
 - Bénévoles (moins d’efforts d’arrosage manuel).
 - Public accueilli (support pédagogique sur l’eau et le climat).
 
-### 7. Ressources nécessaires
+## 7. Ressources nécessaires
 
-#### 7.1. Humain
+### 7.1. Humain
 
 - 2–3 bénévoles.
 - Compétences appréciées : plomberie, irrigation.
 
-#### 7.2. Matériel
+### 7.2. Matériel
 
 | Matériel          | Qté |
 | ----------------- | --- |
-| Cuve 1000 L       |     |
+| Cuve 1000 L       |  2  |
 | Raccords / vannes |     |
 | PEHD              |     |
 | Goutte-à-goutte   |     |
 
-#### 7.3. Budget prévisionnel (ordre de grandeur)
+### 7.3. Budget prévisionnel (ordre de grandeur)
 
 | Poste              | Montant estimé (€) |
 | ------------------ | ------------------ |
-| Cuves              |                    |
+| Cuves              |      200           |
 | PEHD / raccords    |                    |
 | Outillage / divers |                    |
 | **Total**          |                    |
 
-### 8. Évaluation du projet
+## 8. Évaluation du projet
 
 - Estimation du volume d’eau économisé.
 - Nombre d’arbres correctement irrigués.
 - Taux de survie des jeunes arbres après l’été.
 - Réduction du temps bénévole consacré à l’arrosage.
 
-### 9. Décision CA
+## 9. Décision CA
 
 - Date de présentation :
 - Décision :
 - Commentaires :
 
-### 10. Suivi & Bilan
+## 10. Suivi & Bilan
 
 - Installation réalisée le :
 - Ajustements réalisés :
