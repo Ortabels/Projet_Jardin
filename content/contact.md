@@ -11,7 +11,8 @@ showEdit: false
     <p class="eyebrow">Envie d'échanger ?</p>
     <h1>On reste en contact</h1>
     <p class="lede">
-      Dites-nous comment nous pouvons vous aider : partenariat, bénévolat, ateliers, visites ou simples questions.
+      Vous souhaitez un partenariat, proposer du bénévolat, organiser un atelier, visiter ou simplement poser une question ?
+      Vous portez un projet et recherchez un lieu pour le concrétiser ? Nous serions ravis d’en discuter avec vous !
     </p>
   </div>
 
