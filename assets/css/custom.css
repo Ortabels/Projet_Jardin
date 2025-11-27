@@ -1,4 +1,4 @@
-/* Change la grande bande bleue en haut (hero) */
+/* Change la couleur bande en haut et menu */
 .single_hero_background {
     background: #9ebca6 !important;
     /* vert Ortabels par ex. */
@@ -9,6 +9,26 @@
     transition: opacity 0.05s ease;
 }
 
+
+.main-menu nav a.text-base.font-medium {
+    font-size: 2.5rem !important;
+}
+
+
+/* Mise en valeur de la photo d'accueil */
+.home-photo {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto 0;
+}
+
+.home-photo img {
+    width: min(100%, 960px);
+    border-radius: 12px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.15);
+}
+
+/* Theme modification */
 a,
 .main-menu a,
 .card a,
@@ -31,27 +51,6 @@ section.prose.dark\:prose-invert.w-full p {
     text-align: justify;
 }
 
-.main-menu nav a.text-base.font-medium {
-    font-size: 2.5rem !important;
-}
-
-/* Remonter le bloc titre + sous-titre de 20px
-article.h-full.flex.flex-col.items-center.justify-center.text-center {
-    transform: translateY(-120px);
-} */
-
-/* Mise en valeur de la photo d'accueil */
-.home-photo {
-    display: flex;
-    justify-content: center;
-    margin: 2rem auto 0;
-}
-
-.home-photo img {
-    width: min(100%, 960px);
-    border-radius: 12px;
-    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.15);
-}
 
 /* Page contact */
 .contact-hero {

@@ -4,7 +4,7 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://ortabels.github.io/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -26,8 +26,8 @@ enableEmoji = true
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
-  author = "authors"
+  category = "catégories"
+  author = "autheurs"
   series = "series"
 
 [sitemap]
@@ -55,7 +55,7 @@ enableEmoji = true
         weight = 50
 
     [[related.indices]]
-        name = "authors"
+        name = "autheurs"
         weight = 20
 
     [[related.indices]]
