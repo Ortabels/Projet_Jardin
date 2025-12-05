@@ -25,7 +25,7 @@ Chantier participatif : fabrication de puzzles pédagogiques pour comprendre le 
 
 #### 🧩 1. Puzzle “Horizons du sol”
 Inspiré du module “Horizons sous nos pieds” :
-- 6 à 7 pièces (litière, humus, horizon organo-minéral, sous-sol…).
+- 6 à 7 pièces (paillages / litière, humus, horizon organo-minéral, sous-sol, roche mère, nappes).
 - Format A4 max, permettant une manipulation en groupe.
 
 
