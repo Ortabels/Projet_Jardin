@@ -22,15 +22,18 @@ Chantier participatif : fabrication de puzzles pédagogiques pour comprendre le 
 
 ### 🔧 Outils pédagogiques à fabriquer :
 
+
 #### 🧩 1. Puzzle “Horizons du sol”
 Inspiré du module “Horizons sous nos pieds” :
-6 à 7 pièces (litière, humus, horizon organo-minéral, sous-sol…).
+- 6 à 7 pièces (litière, humus, horizon organo-minéral, sous-sol…).
 - Format A4 max, permettant une manipulation en groupe.
+
 
 #### 🐛 2. Puzzle “Qui vit dans le sol ?” :
 Inspiré du “Qui vit là-dessous ?” 
 - Silhouettes d’animaux (vers, cloportes, collemboles…)
 - Cartes explicatives associées.
+
 
 #### 🧩 3. Puzzle “Chaîne alimentaire du sol” :
 Pièces représentant :
@@ -40,13 +43,16 @@ décomposeurs
 prédateurs du sol
 plante / racines
 
+
 #### 🧪 4. Série de “Tests du bocal” :
 Bocaux en verre remplis de sols différents :
 - sableux
 - argileux
 - limoneux
 - sol du potager (à deviner !)
+
 Décantation + observation des couches → texture & structure.
+
 
 #### 🪱 5. Vermicomposteur vitré :
 Petit modèle (50–60 cm de haut).
@@ -73,12 +79,14 @@ Petit modèle (50–60 cm de haut).
 ---
 
 ### 📅 Organisation du chantier :
-- Phase 1 – Préparation (1 semaine)
+- **Phase 1** – Préparation (1 semaine)
+
 Achat / récupération du matériel
 Impression des visuels
 Découpe des formats bruts
 
-- Phase 2 – Fabrication collective (1 journée)
+- **Phase 2** – Fabrication collective (1 journée)
+  
 Ateliers simultanés :
 Puzzle horizons du sol
 Puzzle faune du sol
@@ -86,7 +94,8 @@ Puzzle chaînes alimentaires
 Préparation des bocaux
 Assemblage du vermicomposteur
 
-- Phase 3 – Finitions (1–3 jours)
+- **Phase 3** – Finitions (1–3 jours)
+  
 Vernis écologique
 Plastification des cartes
 Assemblage final
